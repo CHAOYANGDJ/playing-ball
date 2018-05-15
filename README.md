@@ -1,2 +1,1 @@
-# CHAOYANGDJ.github.io
-yeah, it's my own homepage!
+# it's a ball project
